@@ -153,7 +153,7 @@ test.describe('Pruebas de Automatización de la página de Automation Sandbox FR
 
             })
 
-
+            
         })
         //Verificar los Dropdowns de días de la semana
         test('Verificar el funcionamiento de los dropdowns de días de la semana', async ({page}) => {
